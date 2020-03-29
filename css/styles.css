@@ -543,6 +543,7 @@ pre code {
 
 .container {
   width: 100%;
+  background: rgba(244, 98, 58, 0.9);
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
