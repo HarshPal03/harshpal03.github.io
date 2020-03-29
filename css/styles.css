@@ -3983,6 +3983,7 @@ input[type=button].btn-block {
   justify-content: space-between;
 }
 .navbar-brand {
+  background: rgba(244, 98, 58, 0.9);
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
