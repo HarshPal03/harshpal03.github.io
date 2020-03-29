@@ -543,7 +543,6 @@ pre code {
 
 .container {
   width: 100%;
-  background: rgba(244, 98, 58, 0.9);
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -3983,7 +3982,6 @@ input[type=button].btn-block {
   justify-content: space-between;
 }
 .navbar-brand {
-  background: rgba(244, 98, 58, 0.9);
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
