@@ -605,12 +605,19 @@ pre code {
 }
 
 .no-gutters {
+  background: #f4623a;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.no-gutter {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   background: #f4623a;
   margin-right: 0;
   margin-left: 0;
 }
+
 .no-gutters > .col,
 .no-gutters > [class*=col-] {
   padding-right: 0;
