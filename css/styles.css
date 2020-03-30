@@ -598,7 +598,6 @@ pre code {
   }
 }
 .row {
-  background: #f4623a;
   display: flex;
   flex-wrap: wrap;
   margin-right: -15px;
@@ -606,6 +605,9 @@ pre code {
 }
 
 .no-gutters {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  background: #f4623a;
   margin-right: 0;
   margin-left: 0;
 }
